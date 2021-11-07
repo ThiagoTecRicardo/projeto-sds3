@@ -11,8 +11,7 @@ const NavBar = () => {
           </Link>
         </nav>
       </div>
-    </div>
-    
+    </div>    
     );
   }
   
